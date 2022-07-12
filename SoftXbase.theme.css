@@ -1321,10 +1321,9 @@ body .footer-GXWBBp,
 #app-mount .form-3gdLxP .stickerButton-1-nFh2:hover svg {
   background: var(--interactive-normal);
 }
-#app-mount .channelTextArea-1FufC0 {
   background: var(--input-background);
   border: 2px solid transparent;
-  border-radius: 6px;
+  border-radius: 16px;
   transition: var(--transition);
   transition-property: border-color, box-shadow;
 }
