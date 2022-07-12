@@ -1,14 +1,15 @@
 /**
- * @name SoftX
- * @author Gibbu#1211
+ * @name SoftX-edited
+ * @author SugMadic#1027
  * @version 1.0.0
- * @description A soft and comfy feel for Discord.
- * @invite ZHthyCw
- * @authorId 174868361040232448
+ * @description A soft and comfy feel for Discord. For original go to source. Credits to Gibbu#1211
+ * @authorId 531910780006957093
  * @source https://github.com/DiscordStyles/SoftX
 */
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
 
-@import url('https://discordstyles.github.io/SoftX/SoftX.css');
+@import url('https://raw.githubusercontent.com/KrexonBg/SoftX-edited/main/SoftX.theme.css');
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
 @import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
